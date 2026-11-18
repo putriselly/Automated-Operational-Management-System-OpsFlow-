@@ -1,0 +1,86 @@
+Tahap 1 — Project Planning & Setup
+Mulai dari sini
+- Menentukan kebutuhan aplikasi.
+- Menentukan struktur folder project.
+- Menyiapkan virtual environment.
+- Mengatur Git dan GitHub.
+- Menyiapkan dataset contoh.
+  
+  Output: kerangka project yang siap dikembangkan.
+
+
+
+Tahap 2 — File Automation
+- Membaca isi folder secara otomatis.
+- Mendeteksi jenis file.
+- Mengelompokkan file berdasarkan ekstensi.
+- Mengganti nama berdasarkan pola tertentu.
+- Mengekstrak informasi PDF, Excel, dan CSV.
+- Memindahkan file ke arsip.
+  
+  Output: modul pengelolaan dokumen otomatis.
+
+
+
+Tahap 3 — Data Processing
+- Membersihkan data hasil ekstraksi.
+- Memvalidasi format tanggal dan nama klien.
+- Menangani data kosong dan duplikat.
+- Menyiapkan data agar konsisten.
+  
+  Output: data yang sudah bersih dan terstruktur.
+
+
+
+Tahap 4 — Web Scraping
+- Memahami HTTP request dan response.
+- Mengenal HTML dan CSS selector.
+- Memeriksa robots.txt dan ketentuan website.
+- Mengambil data produk dan harga.
+- Menggunakan rate limiting.
+- Menangani koneksi gagal dan perubahan struktur website.
+  
+  Output: pengambilan data harga otomatis.
+
+
+
+Tahap 5 — Database Integration
+- Mendesain tabel database.
+- Menghubungkan Python dengan SQLite.
+- Menyimpan hasil scraping.
+- Menyimpan riwayat perubahan harga.
+- Membuat fungsi membaca dan memperbarui data.
+  
+  Output: penyimpanan data terpusat.
+
+
+
+Tahap 6 — Error Handling & Logging
+- Memahami exception.
+- Menggunakan try-except secara tepat.
+- Membuat error.log.
+- Mencatat waktu dan jenis kegagalan.
+- Menangani file rusak dan koneksi terputus.
+  
+  Output: aplikasi lebih tahan terhadap kegagalan.
+
+
+
+Tahap 7 — Interface & Automation
+- Membuat menu interaktif.
+- Mengintegrasikan semua modul.
+- Membuat dashboard Streamlit.
+- Membuat proses otomatis terjadwal.
+- Menambahkan tombol eksekusi.
+  
+  Output: aplikasi bisa digunakan tanpa mengetik perintah Python.
+
+
+
+Tahap 8 — Testing & Deployment
+- Menguji fungsi satu per satu.
+- Menguji integrasi antarmodul.
+- Menguji kasus error.
+- Membuat dokumentasi.
+- Menyiapkan README dan screenshot.
+- Mengunggah project ke GitHub.
