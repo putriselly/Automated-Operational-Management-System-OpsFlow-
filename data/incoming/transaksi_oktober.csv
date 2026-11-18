@@ -1,0 +1,13 @@
+id_transaksi,tanggal,id_produk,nama_produk,jumlah,harga_satuan,id_klien
+TRX-001,2026-10-03,PRD-01,Jasa pemeliharaan sistem,1,2500000,CL-001
+TRX-002,2026-10-03,PRD-02,Dukungan teknis,2,500000,CL-001
+TRX-003,2026-10-08,PRD-03,Lisensi perangkat lunak,3,750000,CL-003
+TRX-004,2026-10-08,PRD-04,Pelatihan pengguna,1,1200000,CL-003
+TRX-005,2026-10-15,PRD-05,Pembuatan laporan,2,900000,CL-005
+TRX-006,2026-10-15,PRD-06,Konsultasi data,3,400000,CL-005
+TRX-007,2026-10-17,PRD-02,Dukungan teknis,1,500000,CL-001
+TRX-008,2026-10-19,PRD-03,Lisensi perangkat lunak,2,750000,CL-006
+TRX-009,2026-10-20,PRD-04,Pelatihan pengguna,2,1200000,CL-002
+TRX-010,2026-10-21,PRD-01,Jasa pemeliharaan sistem,1,2500000,CL-007
+TRX-011,2026-10-22,PRD-05,Pembuatan laporan,1,900000,CL-008
+TRX-012,2026-10-24,PRD-06,Konsultasi data,2,400000,CL-004
